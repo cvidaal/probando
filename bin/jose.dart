@@ -1,1 +1,3 @@
-class Jose {}
+class Jose {
+  String carlos;
+}
